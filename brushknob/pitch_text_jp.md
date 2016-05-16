@@ -1,8 +1,8 @@
-# BrushKnob: デジタルペインティングのための外付けデバイス
+## BrushKnob: デジタルペインティングのための外付けデバイス
 
-[【キャンペーンサイト / Campaign Site】](https://igg.me/at/brushknob/)
+[[ キャンペーンサイト / Campaign Site ]](https://igg.me/at/brushknob/)
 
-[【ピッチビデオ（字幕ボタン"CC"が右下にあります） / Pitch Video】](https://vimeo.com/163763962)
+[[ ピッチビデオ（字幕ボタン"CC"が右下にあります） / Pitch Video ]](https://vimeo.com/163763962)
 
 ![BK mini logo](https://c1.iggcdn.com/indiegogo-media-prod-cld/image/upload/c_limit,w_620/v1461627039/hr_s9kmh6.png)
 
@@ -82,7 +82,7 @@ BrushKnobの挙動はPCのキーボード設定に依存します。このBrushK
 
 ![BK mini logo](https://c1.iggcdn.com/indiegogo-media-prod-cld/image/upload/c_limit,w_620/v1461627039/hr_s9kmh6.png)
 
-### ファンディングの計画とタイムライン
+## ファンディングの計画とタイムライン
 
 BrushKnobの設計は、量産する量に合わせてより良く修正する予定ですが、現時点で可能な作業の多くはすでに完了しています。より多くのご支援を心からお待ちしております！
 
@@ -110,6 +110,6 @@ BrushKnobはとてもシンプルなプロダクトですが、それを大量�
 
 上　航
 
-[【キャンペーンサイト / Campaign Site】](https://igg.me/at/brushknob/)
+[[ キャンペーンサイト / Campaign Site ]](https://igg.me/at/brushknob/)
 
-[【ピッチビデオ（字幕ボタン"CC"が右下にあります） / Pitch Video】](https://vimeo.com/163763962)
+[[ ピッチビデオ（字幕ボタン"CC"が右下にあります） / Pitch Video ]](https://vimeo.com/163763962)
