@@ -82,7 +82,7 @@ BrushKnobはPhotoshopの操作を直感的にする、とてもシンプルな�
 - Width: 30mm
 - Height: 35mm
 
-BrushKnobの挙動はPCのキーボード設定に依存します。このBrushKnobは、**英語キーボードが接続されているPC**で正しく機能するようにプログラムされています。（日本語キーボードが接続された環境の多くでは、 '[' ではなく '@' が入力されます。）</p>
+BrushKnobの挙動はPCのキーボード設定に依存します。このBrushKnobは、**英語キーボードが接続されているPC**で正しく機能するようにプログラムされています。（日本語キーボードが接続された環境の多くでは、 '[' ではなく '@' が入力されます。{日本語キーボードの人ごめんなさい！}）</p>
 
 ![BK mini logo](https://c1.iggcdn.com/indiegogo-media-prod-cld/image/upload/c_limit,w_620/v1461627039/hr_s9kmh6.png)
 
