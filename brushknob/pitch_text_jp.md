@@ -6,7 +6,7 @@
 
 ![BK mini logo](https://c1.iggcdn.com/indiegogo-media-prod-cld/image/upload/c_limit,w_620/v1461627039/hr_s9kmh6.png)
 
-## BrushKnob のコンセプトについて
+## BrushKnob のコンセプト
 
 ![photo 1](https://c1.iggcdn.com/indiegogo-media-prod-cld/image/upload/c_limit,w_620/v1461469545/_DSC0477s_bzmewx.png)
 
@@ -27,6 +27,10 @@ BrushKnobはPhotoshopの操作を直感的にする、とてもシンプルな�
 ![gif 2](https://raw.githubusercontent.com/kmwtr/chinchilla_systems/master/brushknob/assets/HowItWorksPicto_min.gif)
 
 コンピュータはBrushKnobを外付けキーボードだと認識しており、あなたがノブを回したりボタンを押した時、キーボードショートカットが押されたのと同じ状況が作り出されます。そのため、BrushKnobはPhotoshopと同じキーボードショートカットを持つアプリケーションであれば同様に使う事ができます。
+
+![gif 3](https://raw.githubusercontent.com/kmwtr/chinchilla_systems/b08b51f2d9c32e93adbd8aa41f9c370275fd71a5/brushknob/assets/BKWithBlender.gif)
+
+もちろん、アプリケーション側のショートカット設定を変える事によって、BrushKnobに様々な役割を与える事も可能です。
 
 ![photo 4](https://c1.iggcdn.com/indiegogo-media-prod-cld/image/upload/c_limit,w_620/v1461627096/box_akgtwv.png)
 
