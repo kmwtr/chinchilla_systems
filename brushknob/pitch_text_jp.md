@@ -64,6 +64,13 @@ BrushKnobはPhotoshopの操作を直感的にする、とてもシンプルな�
 - Windows
 - OSX
 
+### 筐体素材
+
+- ノブ：アルミニウム
+- ボディ：アクリル
+- ボルト・ナット：ステンレス
+- コネクタ：ステンレス
+
 ### 付属品
 - USB Cable (A to B)
 
@@ -75,7 +82,7 @@ BrushKnobはPhotoshopの操作を直感的にする、とてもシンプルな�
 
 [https://github.com/kmwtr/BrushKnob](https://github.com/kmwtr/BrushKnob)
 
-### Size / 寸法
+### 寸法
 
 - Knob: ⌀20mm
 - Length: 75mm
