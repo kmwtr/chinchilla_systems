@@ -97,7 +97,7 @@ BrushKnobの挙動はPCのキーボード設定に依存します。このBrushK
 
 BrushKnobの設計は、量産する量に合わせてより良く修正する予定ですが、現時点で可能な作業の多くはすでに完了しています。より多くのご支援を心からお待ちしております！
 
-![photo 7](https://c1.iggcdn.com/indiegogo-media-prod-cld/image/upload/c_limit,w_620/v1461799235/timeline_xc1w6h.png)
+![photo 7](https://c1.iggcdn.com/indiegogo-media-prod-cld/image/upload/c_limit,w_620/v1464098147/timeline2_qo9yn4.png)
 
 もし余力があれば、ロゴを印刷したステッカーも作って同梱したいと考えています。**ステッカー万歳！**
 
