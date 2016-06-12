@@ -46,12 +46,12 @@ BrushKnobはPhotoshopの操作を直感的にする、とてもシンプルな�
 - 高い移植性と安定性
 - 実用的かつ特徴的なハードウェアデザイン
 - オープンソース(GPL.v3)のコードと回路
- 
-BrushKnobは単にGPL.v3なだけではありません。ボディの裏にスルーホールがあり、簡単にAVRの全ピンにアクセスできます。
 
 ![photo 5.5](https://c1.iggcdn.com/indiegogo-media-prod-cld/image/upload/c_limit,w_620/v1465348635/_DSC0675_1200x600_nfsgxa.jpg)
 
-同じくAVRでデバイスを作っている[D.F.Mac](https://twitter.com/tadfmac)さんが、[VUSBMidiAttiny](https://github.com/tadfmac/mi-muz/tree/master/arduino/libraries/VUSBMidiATtiny)というMIDIライブラリをBrushKnobにも対応してくれました！
+BrushKnobは単にGPL.v3なだけではありません。ボディの裏にスルーホールがあり、簡単にAVRの全ピンにアクセスできます。
+
+同じくAVRでデバイスを作っていらっしゃる[D.F.Mac](https://twitter.com/tadfmac)さんが、[VUSBMidiAttiny](https://github.com/tadfmac/mi-muz/tree/master/arduino/libraries/VUSBMidiATtiny)というMIDIライブラリをBrushKnobにも対応してくださいました！
 このように、BrushKnobはAVRやArduinoの知識があれば、だれでも自分の好きなようにカスタムすることができます！
 
 ![BK mini logo](https://c1.iggcdn.com/indiegogo-media-prod-cld/image/upload/c_limit,w_620/v1461627039/hr_s9kmh6.png)
