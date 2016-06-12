@@ -46,6 +46,13 @@ BrushKnobはPhotoshopの操作を直感的にする、とてもシンプルな�
 - 高い移植性と安定性
 - 実用的かつ特徴的なハードウェアデザイン
 - オープンソース(GPL.v3)のコードと回路
+ 
+BrushKnobは単にGPL.v3なだけではありません。ボディの裏にスルーホールがあり、簡単にAVRの全ピンにアクセスできます。
+
+![photo 5.5](https://c1.iggcdn.com/indiegogo-media-prod-cld/image/upload/c_limit,w_620/v1465348635/_DSC0675_1200x600_nfsgxa.jpg)
+
+同じくAVRでデバイスを作っている[D.F.Mac](https://twitter.com/tadfmac)さんが、[VUSBMidiAttiny](https://github.com/tadfmac/mi-muz/tree/master/arduino/libraries/VUSBMidiATtiny)というMIDIライブラリをBrushKnobにも対応してくれました！
+このように、BrushKnobはAVRやArduinoの知識があれば、だれでも自分の好きなようにカスタムすることができます！
 
 ![BK mini logo](https://c1.iggcdn.com/indiegogo-media-prod-cld/image/upload/c_limit,w_620/v1461627039/hr_s9kmh6.png)
 
@@ -89,7 +96,7 @@ BrushKnobはPhotoshopの操作を直感的にする、とてもシンプルな�
 - Width: 30mm
 - Height: 35mm
 
-BrushKnobの挙動はPCのキーボード設定に依存します。このBrushKnobは、**英語キーボードが接続されているPC**で正しく機能するようにプログラムされています。（日本語キーボードが接続された環境の多くでは、 '[' ではなく '@' が入力されます。{日本語キーボードの人ごめんなさい！}）</p>
+BrushKnobの挙動はPCのキーボード設定に依存します。BrushKnob(Standard)は、**英語キーボードが接続されているPC**で正しく機能するようにプログラムされています。（日本語キーボードが接続された環境の多くでは、 '[' ではなく '@' が入力されます。）**日本語キーボード環境で使用する予定の方は、「BrushKnob JP Ver.」を選んでください。このキャンペーン限定の、日本語キーボード信号を送るモデルです！**</p>
 
 ![BK mini logo](https://c1.iggcdn.com/indiegogo-media-prod-cld/image/upload/c_limit,w_620/v1461627039/hr_s9kmh6.png)
 
