@@ -96,7 +96,7 @@ BrushKnobは単にGPL.v3なだけではありません。ボディの裏にス�
 - Width: 30mm
 - Height: 35mm
 
-BrushKnobの挙動はPCのキーボード設定に依存します。BrushKnob(Standard)は、**英語キーボードが接続されているPC**で正しく機能するようにプログラムされています。（日本語キーボードが接続された環境の多くでは、 '[' ではなく '@' が入力されます。）**日本語キーボード環境で使用する予定の方は、「BrushKnob JP Ver.」を選んでください。このキャンペーン限定の、日本語キーボード信号を送るモデルです！**</p>
+BrushKnobの挙動はPCのキーボード設定に依存します。英語キーボードが接続されているPCでは「BrushKnob Standard」を、日本語キーボードが接続されているPCで使用する場合は「BrushKnob JP Ver.」を選んでください。また、OSの言語設定自体には影響されません。（たとえば、日本語キーボードが接続された環境の多くでは、「BrushKnob Standard」をつなげた場合、'[' ではなく '@' が入力されます。）
 
 ![BK mini logo](https://c1.iggcdn.com/indiegogo-media-prod-cld/image/upload/c_limit,w_620/v1461627039/hr_s9kmh6.png)
 
