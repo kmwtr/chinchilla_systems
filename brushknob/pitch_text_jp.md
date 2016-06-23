@@ -1,8 +1,10 @@
-## BrushKnob: デジタルペインティングのための外付けデバイス
+## BrushKnob: Speed Up Your Creation Workflow
 
 [[ キャンペーンサイト / Campaign Site ]](https://igg.me/at/brushknob/)
 
 [[ ピッチビデオ（字幕ボタン"CC"が右下にあります） / Pitch Video ]](https://vimeo.com/163763962)
+
+[[ PV(30秒) / PV ]](https://vimeo.com/169325280)
 
 ![BK mini logo](https://c1.iggcdn.com/indiegogo-media-prod-cld/image/upload/c_limit,w_620/v1461627039/hr_s9kmh6.png)
 
@@ -131,3 +133,5 @@ BrushKnobはとてもシンプルなプロダクトですが、それを大量�
 [[ キャンペーンサイト / Campaign Site ]](https://igg.me/at/brushknob/)
 
 [[ ピッチビデオ（字幕ボタン"CC"が右下にあります） / Pitch Video ]](https://vimeo.com/163763962)
+
+[[ PV(30秒) / PV ]](https://vimeo.com/169325280)
